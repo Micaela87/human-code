@@ -1,0 +1,32 @@
+implementing html/css layout
+
+step 1
+download assets
+
+step 2
+analyze and study the required result(s)
+
+step 3
+organize space on the page by creating a macro-structure
+
+if something goes wrong at this step
+try understanding where the problem(s) might be and fix them
+otherwise keep coding
+
+step 4
+try to organize your time by deciding which parts of the project need to be done first and which one should be completed later
+
+step 5
+for each section of the project
+
+start laying out it
+
+if something goes wrong in any section
+try understanding where the problem(s) might be and fix them
+otherwise keep coding
+
+step 6
+revise your code
+
+step 7
+push your project on github
